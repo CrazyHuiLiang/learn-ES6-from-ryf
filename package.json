@@ -1,0 +1,22 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "This is a repository for i save [ECMAScript6](http://es6.ruanyifeng.com/) demos. Demo's write on node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrazyHuiLiang/ES2015.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrazyHuiLiang/ES2015/issues"
+  },
+  "homepage": "https://github.com/CrazyHuiLiang/ES2015#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.22.0"
+  }
+}
