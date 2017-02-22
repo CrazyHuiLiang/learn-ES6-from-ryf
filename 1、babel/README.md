@@ -1,6 +1,4 @@
-# ES2015简介
-
-###安装babel
+# babel的使用
 ```
 $ npm install --global babel-cli
 ```
