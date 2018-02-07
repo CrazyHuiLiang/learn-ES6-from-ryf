@@ -1,5 +1,5 @@
 {
-  "name": "Learn ES6",
+  "name": "LearnES6",
   "version": "1.0.0",
   "description": "This is a repository for i save [ECMAScript6](http://es6.ruanyifeng.com/) demos. Demo's write on node.js.",
   "main": "index.js",
