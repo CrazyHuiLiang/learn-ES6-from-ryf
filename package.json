@@ -29,6 +29,7 @@
     "babel-preset-stage-0": "^6.24.1"
   },
   "dependencies": {
-    "string.prototype.at": "^0.2.0"
+    "string.prototype.at": "^0.2.0",
+    "thunkify": "^2.1.2"
   }
 }
